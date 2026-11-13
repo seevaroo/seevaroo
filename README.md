@@ -1,4 +1,3 @@
-# 💫 About Me:
 Last login: Fri Nov 13 08:35:00 2026
 
 ## Welcome to Alvaro's Repository
