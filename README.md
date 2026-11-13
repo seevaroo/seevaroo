@@ -1,8 +1,6 @@
-Last login: Fri Nov 13 08:35:00 2026
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00FF00&width=600&lines=Last+login:+Fri+Nov+13+10:05:00+2026" alt="Typing SVG" /></a>
 
-## Welcome to Alvaro's Repository
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Alvaro%20Workspace&fontSize=50&fontAlignY=35&animation=twinkling" alt="Banner" width="100%">
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Alvaro's%20Repository&fontSize=50&fontAlignY=35&animation=twinkling" alt="Banner" width="100%">
 <h1 align="center">About Alvaro Pratama</h1>
 <h3 align="center">Software Engineering Student</h3> <br><br>
 <p align="justify">
