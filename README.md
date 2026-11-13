@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00FF00&width=600&lines=Last+login:+Fri+Nov+13+10:05:00+2026" alt="Typing SVG" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Alvaro's%20Repository&fontSize=50&fontAlignY=35&animation=twinkling" alt="Banner" width="100%">
-<h1 align="center">About Alvaro Pratama</h1>
+<h1 align="center">About Alvaro Raka Pratama</h1>
 <h3 align="center">Software Engineering Student</h3> <br><br>
 <p align="justify">
 Saya adalah seorang siswa kelas XII jurusan Rekayasa Perangkat Lunak (RPL) di SMKN 20 Jakarta, yang sedang menempuh perjalanan panjang di dunia teknologi. Melalui jalur ini, saya membangun fondasi logika pemrograman yang kuat, kedisiplinan, dan konsistensi yang menjadi prinsip utama saya di dunia IT. 
