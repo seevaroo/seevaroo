@@ -14,3 +14,21 @@ Bagi saya, coding bukan sekadar tugas sekolah, melainkan cara saya berkembang da
 ```text
 Mission: Build scalable web applications and clean code.
 Status: Compiling code... Success.
+Alvaro@terminal:~$ _
+
+
+
+My Skills, Tools and Technologies
+
+Tools and technologies that I have worked with and am currently mastering.
+
+🎨 Front-End
+⚙️ Back-End & Database
+🛠️ Tools & Environment
+GitHub Stats
+My Role Model in the world of programming
+Here are some inspirational figures that I often look up to and watch on their YouTube channels.
+
+Do you really need help or collaboration? 
+
+Don't be shy, please contact me.
