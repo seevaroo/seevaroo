@@ -42,7 +42,7 @@ Saya sangat terbuka untuk kolaborasi, diskusi, dan belajar bersama. Jika Anda me
 </div>
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/seevaroo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seevaroo) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@seevarooo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alvarorkpratama@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/seevaroo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seevaroo) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@seevarooo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](gmail:alvarorkpratama@gmail.com) 
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
